@@ -3,8 +3,8 @@ package manager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import java.util.ArrayList;
-import java.util.HashSet;
+//import java.util.ArrayList;
+//import java.util.HashSet;
 import java.util.List;
 
 public class HelperBase {
@@ -70,10 +70,27 @@ public class HelperBase {
         List<WebElement> list = wd.findElements(locator);
         return !list.isEmpty();
     }
-//    public boolean isElementPresentByLocator(By locator){
+
+    //    public boolean isElementPresentByLocator(By locator){
 //        List<WebElement>list = wd.findElements(locator);
 //        return list.size()>0;
 //    }
+    public String getMessage() {
+        pause(5000);
+        return wd.findElement(By.cssSelector(".dialog-container>h2"))
+                .getText();
+    }
+
+    public void pause(int time) {
+        try {
+            Thread.sleep(time);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
+    public void clickOk(){
+        click("ok");
+    }
 }
 
 

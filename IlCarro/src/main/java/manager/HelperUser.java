@@ -1,5 +1,6 @@
 package manager;
 
+import models.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -15,8 +16,12 @@ public class HelperUser extends HelperBase {
     }
 
     public void fillLoginRegistrationForm(String Email, String Password) {
-        type(By.id("email"),Email);
+        type(By.id("email"), Email);
         type(By.id("password"), Password);
+    }
+    public void fillLoginRegistrationForm(User user) {
+        type(By.id("email"), user.getEmail());
+        type(By.id("password"), user.getPass());
     }
 
     public void submitLogin() {
@@ -25,8 +30,7 @@ public class HelperUser extends HelperBase {
     }
 
     public boolean isLogged() {
-        return
-                isElementPresent(By.xpath("//*[.=' Logout ']"));
+        return isElementPresent(By.xpath("//*[.=' Logout ']"));
     }
 
     public void logout() {
