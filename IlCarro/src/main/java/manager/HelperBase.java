@@ -3,8 +3,6 @@ package manager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-//import java.util.ArrayList;
-//import java.util.HashSet;
 import java.util.List;
 
 public class HelperBase {
@@ -42,7 +40,8 @@ public class HelperBase {
 
     public void click(String buttonLabel) {
         String lowerCaseLabel = buttonLabel.toLowerCase();
-        String xpathQuery = String.format("//*[translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz') = '%s']", lowerCaseLabel);
+        String xpathQuery = String.format("//*[translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz') = '%s']",
+                lowerCaseLabel);
         List<WebElement> buttons = wd.findElements(By.xpath(xpathQuery));
         if (!buttons.isEmpty()) {
             buttons.get(0).click();

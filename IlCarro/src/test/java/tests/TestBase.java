@@ -10,7 +10,6 @@ public class TestBase {
    @BeforeSuite
    public void setup(){
        app.init();
-
    }
    @AfterSuite
     public void tearDown(){

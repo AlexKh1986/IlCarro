@@ -5,13 +5,13 @@ import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import java.util.*;
 
 public class LoginTest extends TestBase {
     User user = new User();
     private List<String> invalidEmails;
     private List<String> invalidPasswords;
+
     @BeforeMethod
     public void preCondition() {
         if (app.getHelperUser().isLogged()) {
@@ -22,12 +22,15 @@ public class LoginTest extends TestBase {
         invalidPasswords = app.getHelperUser().readInvalidPasswordsFromFile("invalid_passwords.txt");
     }
 
-    @Test
-    public void loginSuccess1() {
-        user.withEmail("alexkhenkin1986@gmail.com").withPass("Po 12 34 !0 9");
+    private void modelLogInTest(){
         app.getHelperUser().openLoginRegistrationForm();
         app.getHelperUser().fillLoginRegistrationForm(user);
         app.getHelperUser().submitLogin();
+    }
+    @Test
+    public void loginSuccess1() {
+        user.withEmail("alexkhenkin1986@gmail.com").withPass("Po 12 34 !0 9");
+        modelLogInTest();
         Assert.assertTrue(app.getHelperUser().isLogged());
     }
 
@@ -41,30 +44,32 @@ public class LoginTest extends TestBase {
 
     @Test
     public void wrongEmailLogIn() {
-        user.withEmail(invalidEmails.toString()).withPass("Po 12 34 !0 9");
-        app.getHelperUser().openLoginRegistrationForm();
-        app.getHelperUser().fillLoginRegistrationForm(user);
-        app.getHelperUser().submitLogin();
-        Assert.assertFalse(app.getHelperUser().isLogged());
+        for (String invalidEmail : invalidEmails) {
+            user.withEmail(invalidEmail).withPass("Po 12 34 !0 9");
+            modelLogInTest();
+            Assert.assertFalse(app.getHelperUser().isLogged());
+            app.getDriver().navigate().refresh();
+        }
     }
 
     @Test
     public void wrongPassLogin() {
-        user.withEmail("alexkhenkin1986@gmail.com").withPass(invalidPasswords.toString());
-        app.getHelperUser().openLoginRegistrationForm();
-        app.getHelperUser().fillLoginRegistrationForm(user);
-        app.getHelperUser().submitLogin();
-        Assert.assertFalse(app.getHelperUser().isLogged());
+        for (String invalidPass : invalidPasswords) {
+            user.withEmail("alexkhenkin1986@gmail.com").withPass(invalidPass);
+            modelLogInTest();
+            Assert.assertFalse(app.getHelperUser().isLogged());
+            app.getDriver().navigate().refresh();
+        }
     }
 
     @Test
     public void unregUserLogIn() {
         user.withEmail("alex1986@gmail.com").withPass("Po 12 34 !0 9");
-        app.getHelperUser().openLoginRegistrationForm();
-        app.getHelperUser().fillLoginRegistrationForm(user);
-        app.getHelperUser().submitLogin();
+        modelLogInTest();
         Assert.assertFalse(app.getHelperUser().isLogged());
+        app.getDriver().navigate().refresh();
     }
+
 
     @AfterMethod
     public void postCondition() {

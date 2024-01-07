@@ -1,19 +1,16 @@
 package manager;
 
 import models.User;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
 public class HelperUser extends HelperBase {
+    User user = new User();
     private final Random random = new Random();
     public HelperUser(WebDriver wd) {
         super(wd);
@@ -22,7 +19,6 @@ public class HelperUser extends HelperBase {
     public void openLoginRegistrationForm() {
         clickButtonByNumber("Log in", 1);
     }
-
     public void fillLoginRegistrationForm(String Email, String Password) {
         type(By.id("email"), Email);
         type(By.id("password"), Password);
@@ -31,18 +27,13 @@ public class HelperUser extends HelperBase {
         type(By.id("email"), user.getEmail());
         type(By.id("password"), user.getPass());
     }
-
     public void submitLogin() {
         WebElement button = wd.findElement(By.xpath("//button[contains(text(), 'Y’alla!')]"));
         button.click();
     }
-
     public boolean isLogged() {
         return isElementPresent(By.xpath("//*[.=' Logout ']"));
     }
-
-
-
     public void logout() {
         click("Logout");
     }
@@ -56,11 +47,9 @@ public class HelperUser extends HelperBase {
 //    }
 
     public void generateAndSaveTestData() {
-        // Генерация данных
         List<String> invalidEmails = generateInvalidEmails(100);
         List<String> invalidPasswords = generateInvalidPasswords(100);
 
-        // Сохранение данных в файлы
         saveToFile(invalidEmails, "invalid_emails.txt");
         saveToFile(invalidPasswords, "invalid_passwords.txt");
     }
@@ -70,16 +59,16 @@ public class HelperUser extends HelperBase {
             StringBuilder password = new StringBuilder();
             int errorType = random.nextInt(4);
             switch (errorType) {
-                case 0: // Только цифры
+                case 0:
                     password.append(generateRandomDigits(6, 8));
                     break;
-                case 1: // Только буквы
+                case 1:
                     password.append(generateRandomString(6, 8));
                     break;
-                case 2: // Без специальных символов
+                case 2:
                     password.append(generateRandomString(6, 8)).append(generateRandomDigits(2, 4));
                     break;
-                case 3: // Слишком короткий
+                case 3:
                     password.append(generateRandomString(3, 4)).append(generateRandomDigits(1, 2));
                     break;
             }
@@ -87,23 +76,19 @@ public class HelperUser extends HelperBase {
         }
         return passwords;
     }
-
     private String generateRandomDigits(int minLength, int maxLength) {
         int length = random.nextInt(maxLength - minLength + 1) + minLength;
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < length; i++) {
-            sb.append(random.nextInt(10)); // Генерация случайных цифр
+            sb.append(random.nextInt(10));
         }
         return sb.toString();
     }
-
-    // Генерация невалидных электронных адресов
     public List<String> generateInvalidEmails(int count) {
         List<String> emails = new ArrayList<>();
         for (int i = 0; i < count; i++) {
             StringBuilder email = new StringBuilder();
             email.append(generateRandomString(5, 10));
-
             int errorType = random.nextInt(5);
             switch (errorType) {
                 case 0:
@@ -126,8 +111,6 @@ public class HelperUser extends HelperBase {
         }
         return emails;
     }
-
-    // Вспомогательные методы
     private String generateRandomString(int minLength, int maxLength) {
         int length = random.nextInt(maxLength - minLength + 1) + minLength;
         StringBuilder sb = new StringBuilder();
@@ -136,12 +119,9 @@ public class HelperUser extends HelperBase {
         }
         return sb.toString();
     }
-
     private String generateRandomDomain() {
         return generateRandomString(3, 5) + ".com";
     }
-
-    // Сохранение данных в файл
     public void saveToFile(List<String> data, String filename) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filename))) {
             for (String line : data) {
@@ -152,8 +132,6 @@ public class HelperUser extends HelperBase {
             e.printStackTrace();
         }
     }
-
-    // Чтение данных из файла
     public List<String> readFromFile(String filename) {
         List<String> data = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
@@ -169,7 +147,6 @@ public class HelperUser extends HelperBase {
     public List<String> readInvalidEmailsFromFile(String filename) {
         return readFromFile(filename);
     }
-
     public List<String> readInvalidPasswordsFromFile(String filename) {
         return readFromFile(filename);
     }

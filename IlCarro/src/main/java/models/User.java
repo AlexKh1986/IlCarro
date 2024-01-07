@@ -32,16 +32,13 @@ public class User {
         this.email = email;
         return this;
     }
-
     public String getPass() {
         return pass;
     }
-
     public User withPass(String pass) {
         this.pass = pass;
         return this;
     }
-
     @Override
     public String toString() {
         return "User{" +
