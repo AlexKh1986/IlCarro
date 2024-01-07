@@ -1,69 +1,11 @@
 package manager;
 
-import models.User;
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
-public class HelperUser extends HelperBase {
-    private final Random random = new Random();
-    public HelperUser(WebDriver wd) {
-        super(wd);
-    }
+public class DataGen {private final Random random = new Random();
 
-    public void openLoginRegistrationForm() {
-        clickButtonByNumber("Log in", 1);
-    }
-
-    public void fillLoginRegistrationForm(String Email, String Password) {
-        type(By.id("email"), Email);
-        type(By.id("password"), Password);
-    }
-    public void fillLoginRegistrationForm(User user) {
-        type(By.id("email"), user.getEmail());
-        type(By.id("password"), user.getPass());
-    }
-
-    public void submitLogin() {
-        WebElement button = wd.findElement(By.xpath("//button[contains(text(), 'Y’alla!')]"));
-        button.click();
-    }
-
-    public boolean isLogged() {
-        return isElementPresent(By.xpath("//*[.=' Logout ']"));
-    }
-
-
-
-    public void logout() {
-        click("Logout");
-    }
-
-//    public boolean isAlertPresent(String massage) {
-//        Alert alert = new WebDriverWait(wd,1).until(ExpectedConditions.alertIsPresent());
-//        if (alert != null && alert.getText().contains(massage)) {
-//            alert.accept();
-//        }
-//        return true;
-//    }
-
-    public void generateAndSaveTestData() {
-        // Генерация данных
-        List<String> invalidEmails = generateInvalidEmails(100);
-        List<String> invalidPasswords = generateInvalidPasswords(100);
-
-        // Сохранение данных в файлы
-        saveToFile(invalidEmails, "invalid_emails.txt");
-        saveToFile(invalidPasswords, "invalid_passwords.txt");
-    }
+    // Генерация невалидных паролей
     public List<String> generateInvalidPasswords(int count) {
         List<String> passwords = new ArrayList<>();
         for (int i = 0; i < count; i++) {
@@ -165,12 +107,5 @@ public class HelperUser extends HelperBase {
             e.printStackTrace();
         }
         return data;
-    }
-    public List<String> readInvalidEmailsFromFile(String filename) {
-        return readFromFile(filename);
-    }
-
-    public List<String> readInvalidPasswordsFromFile(String filename) {
-        return readFromFile(filename);
     }
 }
