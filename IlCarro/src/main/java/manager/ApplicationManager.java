@@ -12,6 +12,7 @@ public class ApplicationManager {
         System.setProperty("webdriver.chrome.driver", "/Users/alexkhenkin/Tools/chromedriver/chromedriver");
         wd = new ChromeDriver();
         wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        wd.manage().window().maximize();
         wd.navigate().to("https://ilcarro.web.app/search");
         helperUser = new HelperUser(wd);
 

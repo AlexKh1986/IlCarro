@@ -49,6 +49,9 @@ public class HelperBase {
             System.out.println(buttonLabel + " button not found.");
         }
     }
+    public void click(By locator) {
+        wd.findElement(locator).click();
+    }
 
     public void clickButtonByNumber(String buttonLabel, int number) {
         String xpathQuery = String.format("(//*[contains(text(), '%s')])[%d]", buttonLabel, number);

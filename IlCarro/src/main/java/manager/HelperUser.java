@@ -1,9 +1,10 @@
 package manager;
 
 import models.User;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Action;
+import org.openqa.selenium.interactions.Actions;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -12,6 +13,7 @@ import java.util.Random;
 public class HelperUser extends HelperBase {
     User user = new User();
     private final Random random = new Random();
+
     public HelperUser(WebDriver wd) {
         super(wd);
     }
@@ -19,21 +21,26 @@ public class HelperUser extends HelperBase {
     public void openLoginRegistrationForm() {
         clickButtonByNumber("Log in", 1);
     }
+
     public void fillLoginRegistrationForm(String Email, String Password) {
         type(By.id("email"), Email);
         type(By.id("password"), Password);
     }
+
     public void fillLoginRegistrationForm(User user) {
         type(By.id("email"), user.getEmail());
         type(By.id("password"), user.getPass());
     }
+
     public void submitLogin() {
         WebElement button = wd.findElement(By.xpath("//button[contains(text(), 'Y’alla!')]"));
         button.click();
     }
+
     public boolean isLogged() {
         return isElementPresent(By.xpath("//*[.=' Logout ']"));
     }
+
     public void logout() {
         click("Logout");
     }
@@ -47,12 +54,13 @@ public class HelperUser extends HelperBase {
 //    }
 
     public void generateAndSaveTestData() {
-        List<String> invalidEmails = generateInvalidEmails(100);
-        List<String> invalidPasswords = generateInvalidPasswords(100);
+        List<String> invalidEmails = generateInvalidEmails(25);
+        List<String> invalidPasswords = generateInvalidPasswords(25);
 
         saveToFile(invalidEmails, "invalid_emails.txt");
         saveToFile(invalidPasswords, "invalid_passwords.txt");
     }
+
     public List<String> generateInvalidPasswords(int count) {
         List<String> passwords = new ArrayList<>();
         for (int i = 0; i < count; i++) {
@@ -85,32 +93,28 @@ public class HelperUser extends HelperBase {
         return sb.toString();
     }
     public List<String> generateInvalidEmails(int count) {
-        List<String> emails = new ArrayList<>();
-        for (int i = 0; i < count; i++) {
-            StringBuilder email = new StringBuilder();
-            email.append(generateRandomString(5, 10));
-            int errorType = random.nextInt(5);
-            switch (errorType) {
-                case 0:
-                    email.append(generateRandomDomain());
-                    break;
-                case 1:
-                    email.append("@@").append(generateRandomDomain());
-                    break;
-                case 2:
-                    email.append("@").append(generateRandomString(3, 5)).append(".co");
-                    break;
-                case 3:
-                    email.append("@").append(generateRandomString(3, 5));
-                    break;
-                case 4:
-                    email.append("@").append(generateRandomDomain());
-                    break;
+            List<String> emails = new ArrayList<>();
+            for (int i = 0; i < count; i++) {
+                int type = random.nextInt(4); // Randomly select one of four types
+                String email;
+                switch (type) {
+                    case 0:
+                        email = generateRandomString(5, 10) + "@@" + generateRandomDomain(); // @@ in email
+                        break;
+                    case 1:
+                        email = generateRandomString(5, 10) + generateRandomDomain(); // No @ in email
+                        break;
+                    case 2:
+                        email = generateRandomString(5, 10) + "@"; // @ but no domain
+                        break;
+                    default:
+                        email = "@" + generateRandomDomain(); // Domain but no user part
+                        break;
+                }
+                emails.add(email);
             }
-            emails.add(email.toString());
+            return emails;
         }
-        return emails;
-    }
     private String generateRandomString(int minLength, int maxLength) {
         int length = random.nextInt(maxLength - minLength + 1) + minLength;
         StringBuilder sb = new StringBuilder();
@@ -149,5 +153,38 @@ public class HelperUser extends HelperBase {
     }
     public List<String> readInvalidPasswordsFromFile(String filename) {
         return readFromFile(filename);
+    }
+    public String getErrorTxt() {
+        return wd.findElement(By.cssSelector("div.error"))
+                .getText();
+    }
+    public void openRegInForm(){
+        click("Sign Up");
+    }
+    public void fillRegInForm(User user){
+        type(By.id("name"),user.getFirstName());
+        type(By.id("lastName"),user.getLastName());
+        type(By.id("email"),user.getEmail());
+        type(By.id("password"),user.getPass());
+    }
+    public void checkPolicy(){
+        JavascriptExecutor js = (JavascriptExecutor) wd;
+        js.executeScript("document.querySelector('#terms-of-use').click()");
+    }
+    public void checkPolicyXY(){
+      WebElement label = wd.findElement(By.cssSelector("label[for='terms-of-use']"));
+        Rectangle re = label.getRect();
+      int w = re.getWidth();
+      int xOffset = -w/2;
+        Actions actions = new Actions(wd);
+        actions.moveToElement(label, xOffset,0).click().release().perform();
+    Dimension size = wd.manage().window().getSize();
+        System.out.println("Wight screen --->"+size.getWidth());
+    }
+    public void login(){
+        openLoginRegistrationForm();
+        fillRegInForm(user);
+        submitLogin();
+        clickOk();
     }
 }
