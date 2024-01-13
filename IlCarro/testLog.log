@@ -530,3 +530,19 @@ Jan 13, 2024 7:40:21 PM tests.RegInTests registrationWrongEmail
 INFO: Testing failed kuntmxb@
 Jan 13, 2024 7:40:29 PM tests.RegInTests registrationWrongEmail
 INFO: pass kuntmxb@
+Jan 13, 2024 7:51:39 PM tests.RegInTests registrationEmptyName
+INFO: Testing with invalid data  null
+Jan 13, 2024 7:51:48 PM tests.RegInTests registrationEmptyName
+INFO: pass 
+Jan 13, 2024 7:59:39 PM tests.RegInTests registrationEmptyName
+INFO: Testing with invalid data  null
+Jan 13, 2024 7:59:48 PM tests.RegInTests registrationEmptyName
+INFO: Failed RegIn 
+Jan 13, 2024 8:01:48 PM tests.RegInTests registrationEmptyName
+INFO: Testing with invalid data  null
+Jan 13, 2024 8:02:00 PM tests.RegInTests registrationEmptyName
+INFO: Failed RegIn    
+Jan 13, 2024 8:08:40 PM tests.RegInTests registrationEmptyName
+INFO: Testing with invalid data  
+Jan 13, 2024 8:08:49 PM tests.RegInTests registrationEmptyName
+INFO: Failed RegIn 

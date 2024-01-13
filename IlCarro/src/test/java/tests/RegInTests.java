@@ -70,7 +70,13 @@ public class RegInTests extends TestBase {
                 .withLastName("snow")
                 .withEmail("snow" + z + "@gmail.com")
                 .withPass("SnowBall123!?");
+        log.info("Testing with invalid data  "+u.getFirstName());
         modelTestForRegIn();
+        if (app.getHelperUser().isLogged()){
+            log.severe("RegIn done with invalid data "+u.getFirstName());
+        }else {
+            log.info("Failed RegIn "+u.getFirstName());
+        }
         Assert.assertFalse(app.getHelperUser().isLogged());
         app.getDriver().navigate().refresh();
     }
@@ -84,7 +90,13 @@ public class RegInTests extends TestBase {
                 .withLastName("")
                 .withEmail("snow" + z + "@gmail.com")
                 .withPass("SnowBall123!?");
+        log.info("Testing with invalid data  "+u.getFirstName());
         modelTestForRegIn();
+        if (app.getHelperUser().isLogged()){
+            log.severe("RegIn done with invalid data "+u.getLastName());
+        }else {
+            log.info("Failed RegIn  "+u.getLastName());
+        }
         Assert.assertFalse(app.getHelperUser().isLogged());
         app.getDriver().navigate().refresh();
     }
@@ -92,7 +104,7 @@ public class RegInTests extends TestBase {
    @Test
    public void registrationWrongEmail() {
         for (String invalidEmail : invalidEmails) {
-            log.info("Testing failed "+invalidEmail);
+            log.info("Testing with invalid data "+invalidEmail);
             u.withFirstName("john")
                     .withLastName("snow")
                     .withEmail(invalidEmail)
@@ -101,7 +113,7 @@ public class RegInTests extends TestBase {
             if (app.getHelperUser().isLogged()){
                 log.severe("RegIn done with invalid data "+invalidEmail);
             }else {
-                log.info("pass "+invalidEmail);
+                log.info("Failed RegIn  "+invalidEmail);
             }
             Assert.assertFalse(app.getHelperUser().isLogged());
             app.getDriver().navigate().refresh();
@@ -113,7 +125,7 @@ public class RegInTests extends TestBase {
         System.out.println(System.currentTimeMillis());
         int z = (int) (System.currentTimeMillis()/i%3600);
         for (String invalidPass : invalidPasswords) {
-            log.info("Testing failed "+invalidPass);
+            log.info("Testing with invalid data  "+invalidPass);
             u.withFirstName("john")
                     .withLastName("snow")
                     .withEmail("snow" + z + "@gmail.com")
