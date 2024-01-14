@@ -546,3 +546,257 @@ Jan 13, 2024 8:08:40 PM tests.RegInTests registrationEmptyName
 INFO: Testing with invalid data  
 Jan 13, 2024 8:08:49 PM tests.RegInTests registrationEmptyName
 INFO: Failed RegIn 
+Jan 13, 2024 8:12:49 PM tests.RegInTests registrationEmptyLastName
+INFO: Testing with invalid data  john
+Jan 13, 2024 8:12:59 PM tests.RegInTests registrationEmptyLastName
+INFO: Failed RegIn  
+Jan 13, 2024 8:13:15 PM tests.RegInTests registrationEmptyName
+INFO: Testing with invalid data  
+Jan 13, 2024 8:13:23 PM tests.RegInTests registrationEmptyName
+INFO: Failed RegIn 
+Jan 13, 2024 8:13:39 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  057960
+Jan 13, 2024 8:13:47 PM tests.RegInTests registrationInvalidPass
+INFO: pass 057960
+Jan 13, 2024 8:13:53 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  sblsmrga
+Jan 13, 2024 8:14:02 PM tests.RegInTests registrationInvalidPass
+INFO: pass sblsmrga
+Jan 13, 2024 8:14:08 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  ziwnfa
+Jan 13, 2024 8:14:16 PM tests.RegInTests registrationInvalidPass
+INFO: pass ziwnfa
+Jan 13, 2024 8:14:22 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  ktx07
+Jan 13, 2024 8:14:30 PM tests.RegInTests registrationInvalidPass
+INFO: pass ktx07
+Jan 13, 2024 8:14:35 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  lmfqdmpd
+Jan 13, 2024 8:14:42 PM tests.RegInTests registrationInvalidPass
+INFO: pass lmfqdmpd
+Jan 13, 2024 8:14:48 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  hzkeng3763
+Jan 13, 2024 8:14:56 PM tests.RegInTests registrationInvalidPass
+INFO: pass hzkeng3763
+Jan 13, 2024 8:15:02 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  uexbyn
+Jan 13, 2024 8:15:09 PM tests.RegInTests registrationInvalidPass
+INFO: pass uexbyn
+Jan 13, 2024 8:15:15 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  unddbo
+Jan 13, 2024 8:15:22 PM tests.RegInTests registrationInvalidPass
+INFO: pass unddbo
+Jan 13, 2024 8:15:28 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  fbuxoln953
+Jan 13, 2024 8:15:35 PM tests.RegInTests registrationInvalidPass
+INFO: pass fbuxoln953
+Jan 13, 2024 8:15:41 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  jcezhfwy
+Jan 14, 2024 8:09:53 PM tests.RegInTests registrationEmptyLastName
+INFO: Testing with invalid data  john
+Jan 14, 2024 8:10:02 PM tests.RegInTests registrationEmptyLastName
+INFO: Failed RegIn  
+Jan 14, 2024 8:10:18 PM tests.RegInTests registrationEmptyName
+INFO: Testing with invalid data  
+Jan 14, 2024 8:10:26 PM tests.RegInTests registrationEmptyName
+INFO: Failed RegIn 
+Jan 14, 2024 8:10:42 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  wgptoj
+Jan 14, 2024 8:10:50 PM tests.RegInTests registrationInvalidPass
+INFO: pass wgptoj
+Jan 14, 2024 8:10:56 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  hmplih289
+Jan 14, 2024 8:11:03 PM tests.RegInTests registrationInvalidPass
+INFO: pass hmplih289
+Jan 14, 2024 8:11:09 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  iuigmete
+Jan 14, 2024 8:11:16 PM tests.RegInTests registrationInvalidPass
+INFO: pass iuigmete
+Jan 14, 2024 8:11:22 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  49690756
+Jan 14, 2024 8:11:29 PM tests.RegInTests registrationInvalidPass
+INFO: pass 49690756
+Jan 14, 2024 8:11:35 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  fcwxtvp374
+Jan 14, 2024 8:11:43 PM tests.RegInTests registrationInvalidPass
+INFO: pass fcwxtvp374
+Jan 14, 2024 8:11:48 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  tpykqj53
+Jan 14, 2024 8:11:56 PM tests.RegInTests registrationInvalidPass
+INFO: pass tpykqj53
+Jan 14, 2024 8:12:01 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  038425
+Jan 14, 2024 8:12:08 PM tests.RegInTests registrationInvalidPass
+INFO: pass 038425
+Jan 14, 2024 8:12:14 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  5262871
+Jan 14, 2024 8:12:21 PM tests.RegInTests registrationInvalidPass
+INFO: pass 5262871
+Jan 14, 2024 8:12:27 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  gzkmrmk9196
+Jan 14, 2024 8:12:34 PM tests.RegInTests registrationInvalidPass
+INFO: pass gzkmrmk9196
+Jan 14, 2024 8:12:40 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  umsmyagp
+Jan 14, 2024 8:12:47 PM tests.RegInTests registrationInvalidPass
+INFO: pass umsmyagp
+Jan 14, 2024 8:12:53 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  cujhtejl9336
+Jan 14, 2024 8:13:00 PM tests.RegInTests registrationInvalidPass
+INFO: pass cujhtejl9336
+Jan 14, 2024 8:13:05 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  acucay208
+Jan 14, 2024 8:13:13 PM tests.RegInTests registrationInvalidPass
+INFO: pass acucay208
+Jan 14, 2024 8:13:19 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  twwbkrp
+Jan 14, 2024 8:13:26 PM tests.RegInTests registrationInvalidPass
+INFO: pass twwbkrp
+Jan 14, 2024 8:13:32 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  oezp79
+Jan 14, 2024 8:13:39 PM tests.RegInTests registrationInvalidPass
+INFO: pass oezp79
+Jan 14, 2024 8:13:45 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  fimxwa9709
+Jan 14, 2024 8:13:52 PM tests.RegInTests registrationInvalidPass
+INFO: pass fimxwa9709
+Jan 14, 2024 8:13:58 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  renbkva844
+Jan 14, 2024 8:14:05 PM tests.RegInTests registrationInvalidPass
+INFO: pass renbkva844
+Jan 14, 2024 8:14:11 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  1580874
+Jan 14, 2024 8:14:19 PM tests.RegInTests registrationInvalidPass
+INFO: pass 1580874
+Jan 14, 2024 8:14:24 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  vhmbhhzi6879
+Jan 14, 2024 8:14:31 PM tests.RegInTests registrationInvalidPass
+INFO: pass vhmbhhzi6879
+Jan 14, 2024 8:14:37 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  vffbdrj699
+Jan 14, 2024 8:14:44 PM tests.RegInTests registrationInvalidPass
+INFO: pass vffbdrj699
+Jan 14, 2024 8:14:50 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  jsh98
+Jan 14, 2024 8:14:57 PM tests.RegInTests registrationInvalidPass
+INFO: pass jsh98
+Jan 14, 2024 8:15:03 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  oeywsckm
+Jan 14, 2024 8:15:10 PM tests.RegInTests registrationInvalidPass
+INFO: pass oeywsckm
+Jan 14, 2024 8:15:16 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  6078090
+Jan 14, 2024 8:15:23 PM tests.RegInTests registrationInvalidPass
+INFO: pass 6078090
+Jan 14, 2024 8:15:29 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  31657154
+Jan 14, 2024 8:15:36 PM tests.RegInTests registrationInvalidPass
+INFO: pass 31657154
+Jan 14, 2024 8:15:42 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  pvqtzana
+Jan 14, 2024 8:15:49 PM tests.RegInTests registrationInvalidPass
+INFO: pass pvqtzana
+Jan 14, 2024 8:15:55 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  chi41
+Jan 14, 2024 8:16:02 PM tests.RegInTests registrationInvalidPass
+INFO: pass chi41
+Jan 14, 2024 8:16:17 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data cbsqyummd@
+Jan 14, 2024 8:16:26 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  cbsqyummd@
+Jan 14, 2024 8:16:32 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data gulqvnte@
+Jan 14, 2024 8:16:39 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  gulqvnte@
+Jan 14, 2024 8:16:45 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data @thyvv.com
+Jan 14, 2024 8:16:53 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  @thyvv.com
+Jan 14, 2024 8:16:58 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data cyiqowji@
+Jan 14, 2024 8:17:05 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  cyiqowji@
+Jan 14, 2024 8:17:11 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data @zha.com
+Jan 14, 2024 8:17:18 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  @zha.com
+Jan 14, 2024 8:17:24 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data biomcvo@
+Jan 14, 2024 8:17:32 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  biomcvo@
+Jan 14, 2024 8:17:37 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data bqsluuiqxijhlv.com
+Jan 14, 2024 8:17:45 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  bqsluuiqxijhlv.com
+Jan 14, 2024 8:17:50 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data lccvwygjx@@kier.com
+Jan 14, 2024 8:17:57 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  lccvwygjx@@kier.com
+Jan 14, 2024 8:18:03 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data qksgcgxc.com
+Jan 14, 2024 8:18:11 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  qksgcgxc.com
+Jan 14, 2024 8:18:16 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data ifezwwjlpmdnf.com
+Jan 14, 2024 8:18:24 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  ifezwwjlpmdnf.com
+Jan 14, 2024 8:18:30 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data ouvlbry@@uhw.com
+Jan 14, 2024 8:18:37 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  ouvlbry@@uhw.com
+Jan 14, 2024 8:18:42 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data rlfdoscyu@@ssx.com
+Jan 14, 2024 8:18:49 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  rlfdoscyu@@ssx.com
+Jan 14, 2024 8:18:55 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data dvazvafkc.com
+Jan 14, 2024 8:19:02 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  dvazvafkc.com
+Jan 14, 2024 8:19:08 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data @hjnjp.com
+Jan 14, 2024 8:19:15 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  @hjnjp.com
+Jan 14, 2024 8:19:20 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data vsuazravw@
+Jan 14, 2024 8:19:28 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  vsuazravw@
+Jan 14, 2024 8:19:33 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data iukggfalftuyki.com
+Jan 14, 2024 8:19:40 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  iukggfalftuyki.com
+Jan 14, 2024 8:19:46 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data @xxdq.com
+Jan 14, 2024 8:19:54 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  @xxdq.com
+Jan 14, 2024 8:19:59 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data yonwfmpob@
+Jan 14, 2024 8:20:07 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  yonwfmpob@
+Jan 14, 2024 8:20:12 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data qfhobatz.com
+Jan 14, 2024 8:20:19 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  qfhobatz.com
+Jan 14, 2024 8:20:25 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data @teqtn.com
+Jan 14, 2024 8:20:32 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  @teqtn.com
+Jan 14, 2024 8:20:38 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data qflcrtjoh@@com.com
+Jan 14, 2024 8:20:45 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  qflcrtjoh@@com.com
+Jan 14, 2024 8:20:51 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data iiumyiug@@rzyfq.com
+Jan 14, 2024 8:20:58 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  iiumyiug@@rzyfq.com
+Jan 14, 2024 8:21:04 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data hjxrwgut@
+Jan 14, 2024 8:21:12 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  hjxrwgut@
+Jan 14, 2024 8:21:19 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data kwwjfcuhkxs.com
+Jan 14, 2024 8:21:27 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  kwwjfcuhkxs.com
+Jan 14, 2024 8:21:32 PM tests.RegInTests registrationWrongEmail
+INFO: Testing with invalid data ownlkq@
+Jan 14, 2024 8:21:40 PM tests.RegInTests registrationWrongEmail
+INFO: Failed RegIn  ownlkq@
