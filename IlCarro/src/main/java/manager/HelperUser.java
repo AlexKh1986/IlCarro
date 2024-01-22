@@ -2,7 +2,6 @@ package manager;
 
 import models.User;
 import org.openqa.selenium.*;
-import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 
 import java.io.*;
@@ -13,34 +12,27 @@ import java.util.Random;
 public class HelperUser extends HelperBase {
     User user = new User();
     private final Random random = new Random();
-
     public HelperUser(WebDriver wd) {
         super(wd);
     }
-
     public void openLoginRegistrationForm() {
         clickButtonByNumber("Log in", 1);
     }
-
     public void fillLoginRegistrationForm(String Email, String Password) {
         type(By.id("email"), Email);
         type(By.id("password"), Password);
     }
-
     public void fillLoginRegistrationForm(User user) {
         type(By.id("email"), user.getEmail());
         type(By.id("password"), user.getPass());
     }
-
     public void submitLogin() {
         WebElement button = wd.findElement(By.xpath("//button[contains(text(), 'Y’alla!')]"));
         button.click();
     }
-
     public boolean isLogged() {
         return isElementPresent(By.xpath("//*[.=' Logout ']"));
     }
-
     public void logout() {
         click("Logout");
     }
@@ -60,7 +52,6 @@ public class HelperUser extends HelperBase {
         saveToFile(invalidEmails, "invalid_emails.txt");
         saveToFile(invalidPasswords, "invalid_passwords.txt");
     }
-
     public List<String> generateInvalidPasswords(int count) {
         List<String> passwords = new ArrayList<>();
         for (int i = 0; i < count; i++) {
@@ -181,9 +172,9 @@ public class HelperUser extends HelperBase {
     Dimension size = wd.manage().window().getSize();
         System.out.println("Wight screen --->"+size.getWidth());
     }
-    public void login(){
+    public void login(User user){
         openLoginRegistrationForm();
-        fillRegInForm(user);
+        fillLoginRegistrationForm(user);
         submitLogin();
         clickOk();
     }

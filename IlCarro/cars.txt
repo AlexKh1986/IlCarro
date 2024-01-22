@@ -1,0 +1,25 @@
+location=Jerusalem, manufacture=Ford, model=Elantra, year=2017, carClass=Econom, carRegNumber=REG-41, fuel=Petrol, about=Very nice car, seats=4, price=500.0
+location=Jerusalem, manufacture=Nissan, model=Optima, year=2018, carClass=Lux, carRegNumber=REG-3076, fuel=Petrol, about=Very nice car, seats=2, price=350.0
+location=Jerusalem, manufacture=Chevrolet, model=C-Class, year=2018, carClass=Econom, carRegNumber=REG-5200, fuel=Gas, about=Very nice car, seats=4, price=500.0
+location=Tel Aviv, manufacture=Volkswagen, model=Corolla, year=2018, carClass=Lux, carRegNumber=REG-9597, fuel=Hybrid, about=Very nice car, seats=7, price=400.0
+location=Tel Aviv, manufacture=Mercedes-Benz, model=Golf, year=2018, carClass=Econom, carRegNumber=REG-9100, fuel=Gas, about=Very nice car, seats=7, price=400.0
+location=Haifa, manufacture=Volkswagen, model=Civic, year=2022, carClass=Econom, carRegNumber=REG-8077, fuel=Hybrid, about=Very nice car, seats=2, price=500.0
+location=Jerusalem, manufacture=Nissan, model=Golf, year=2019, carClass=Econom, carRegNumber=REG-6635, fuel=Petrol, about=Very nice car, seats=7, price=350.0
+location=Haifa, manufacture=Ford, model=Corolla, year=2017, carClass=Lux, carRegNumber=REG-640, fuel=Gas, about=Very nice car, seats=4, price=450.0
+location=Tel Aviv, manufacture=Ford, model=F-150, year=2018, carClass=Econom, carRegNumber=REG-8002, fuel=Petrol, about=Very nice car, seats=5, price=450.0
+location=Jerusalem, manufacture=Mercedes-Benz, model=Optima, year=2023, carClass=Econom, carRegNumber=REG-1349, fuel=Hybrid, about=Very nice car, seats=5, price=350.0
+location=Tel Aviv, manufacture=Ford, model=C-Class, year=2020, carClass=Econom, carRegNumber=REG-2223, fuel=Hybrid, about=Very nice car, seats=4, price=450.0
+location=Haifa, manufacture=Chevrolet, model=Corolla, year=2017, carClass=Econom, carRegNumber=REG-3983, fuel=Gas, about=Very nice car, seats=2, price=400.0
+location=Jerusalem, manufacture=Kia, model=Altima, year=2018, carClass=Lux, carRegNumber=REG-1075, fuel=Petrol, about=Very nice car, seats=2, price=230.0
+location=Haifa, manufacture=Chevrolet, model=Optima, year=2017, carClass=Lux, carRegNumber=REG-2310, fuel=Diesel, about=Very nice car, seats=4, price=1000.0
+location=Haifa, manufacture=Volkswagen, model=Optima, year=2018, carClass=Lux, carRegNumber=REG-6071, fuel=Gas, about=Very nice car, seats=4, price=450.0
+location=Haifa, manufacture=Toyota, model=Optima, year=2023, carClass=Lux, carRegNumber=REG-9818, fuel=Hybrid, about=Very nice car, seats=7, price=400.0
+location=Tel Aviv, manufacture=Nissan, model=Civic, year=2017, carClass=Econom, carRegNumber=REG-6009, fuel=Diesel, about=Very nice car, seats=7, price=230.0
+location=Jerusalem, manufacture=Hyundai, model=Elantra, year=2016, carClass=Econom, carRegNumber=REG-2165, fuel=Petrol, about=Very nice car, seats=4, price=500.0
+location=Tel Aviv, manufacture=Mercedes-Benz, model=Altima, year=2015, carClass=Econom, carRegNumber=REG-5065, fuel=Petrol, about=Very nice car, seats=5, price=100.0
+location=Haifa, manufacture=Volkswagen, model=Corolla, year=2020, carClass=Econom, carRegNumber=REG-1568, fuel=Electric, about=Very nice car, seats=2, price=450.0
+location=Jerusalem, manufacture=Chevrolet, model=Silverado, year=2015, carClass=Lux, carRegNumber=REG-5710, fuel=Gas, about=Very nice car, seats=7, price=450.0
+location=Haifa, manufacture=Nissan, model=Silverado, year=2018, carClass=Econom, carRegNumber=REG-7943, fuel=Gas, about=Very nice car, seats=5, price=230.0
+location=Haifa, manufacture=Nissan, model=Silverado, year=2018, carClass=Econom, carRegNumber=REG-5960, fuel=Gas, about=Very nice car, seats=2, price=450.0
+location=Haifa, manufacture=Honda, model=3 Series, year=2022, carClass=Lux, carRegNumber=REG-1485, fuel=Gas, about=Very nice car, seats=7, price=100.0
+location=Haifa, manufacture=Volkswagen, model=3 Series, year=2019, carClass=Lux, carRegNumber=REG-4062, fuel=Petrol, about=Very nice car, seats=4, price=450.0

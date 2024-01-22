@@ -90,6 +90,10 @@ public class HelperBase {
             throw new RuntimeException(e);
         }
     }
+    public void submit() {
+        wd.findElement(By.xpath("//button[@type='submit']"))
+                .click();
+    }
     public void clickOk(){
         click("ok");
     }

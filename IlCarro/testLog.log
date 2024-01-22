@@ -800,3 +800,57 @@ Jan 14, 2024 8:21:32 PM tests.RegInTests registrationWrongEmail
 INFO: Testing with invalid data ownlkq@
 Jan 14, 2024 8:21:40 PM tests.RegInTests registrationWrongEmail
 INFO: Failed RegIn  ownlkq@
+Jan 18, 2024 7:14:37 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  lzh92
+Jan 18, 2024 7:14:45 PM tests.RegInTests registrationInvalidPass
+INFO: pass lzh92
+Jan 18, 2024 7:14:51 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  ygc8
+Jan 18, 2024 7:14:58 PM tests.RegInTests registrationInvalidPass
+INFO: pass ygc8
+Jan 18, 2024 7:15:03 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  bhml95
+Jan 18, 2024 7:15:10 PM tests.RegInTests registrationInvalidPass
+INFO: pass bhml95
+Jan 18, 2024 7:15:16 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  benkerf57
+Jan 18, 2024 7:15:24 PM tests.RegInTests registrationInvalidPass
+INFO: pass benkerf57
+Jan 18, 2024 7:15:30 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  goh1
+Jan 18, 2024 7:15:40 PM tests.RegInTests registrationInvalidPass
+INFO: pass goh1
+Jan 18, 2024 7:15:45 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  mklsisfe
+Jan 18, 2024 7:15:53 PM tests.RegInTests registrationInvalidPass
+INFO: pass mklsisfe
+Jan 18, 2024 7:15:59 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  28218358
+Jan 18, 2024 7:16:05 PM tests.RegInTests registrationInvalidPass
+INFO: pass 28218358
+Jan 18, 2024 7:16:11 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  cso16
+Jan 18, 2024 7:16:18 PM tests.RegInTests registrationInvalidPass
+INFO: pass cso16
+Jan 18, 2024 7:16:24 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  23026897
+Jan 18, 2024 7:16:31 PM tests.RegInTests registrationInvalidPass
+INFO: pass 23026897
+Jan 18, 2024 7:16:36 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  zeouqmmb
+Jan 18, 2024 7:16:44 PM tests.RegInTests registrationInvalidPass
+INFO: pass zeouqmmb
+Jan 18, 2024 7:16:49 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  mcrslum
+Jan 18, 2024 7:16:57 PM tests.RegInTests registrationInvalidPass
+INFO: pass mcrslum
+Jan 18, 2024 7:17:02 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  146393
+Jan 18, 2024 7:17:09 PM tests.RegInTests registrationInvalidPass
+INFO: pass 146393
+Jan 18, 2024 7:17:15 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  pvg95
+Jan 18, 2024 7:17:22 PM tests.RegInTests registrationInvalidPass
+INFO: pass pvg95
+Jan 18, 2024 7:17:28 PM tests.RegInTests registrationInvalidPass
+INFO: Testing with invalid data  cqxrychu
