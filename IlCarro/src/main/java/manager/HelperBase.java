@@ -1,11 +1,19 @@
 package manager;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+//import com.google.common.io.Files;
+import org.openqa.selenium.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.StandardCopyOption;
 import java.util.List;
+import java.nio.file.Files;
+
 
 public class HelperBase {
+    Logger logger = LoggerFactory.getLogger(HelperBase.class);
     WebDriver wd;
 
     public HelperBase(WebDriver wd) {
@@ -49,6 +57,7 @@ public class HelperBase {
             System.out.println(buttonLabel + " button not found.");
         }
     }
+
     public void click(By locator) {
         wd.findElement(locator).click();
     }
@@ -90,13 +99,55 @@ public class HelperBase {
             throw new RuntimeException(e);
         }
     }
+
     public void submit() {
         wd.findElement(By.xpath("//button[@type='submit']"))
                 .click();
     }
-    public void clickOk(){
+
+    public void clickOk() {
         click("ok");
     }
+
+    public void getScreen(String link) {
+        File directory = new File(link);
+        if (!directory.exists()) {
+            directory.mkdirs();
+        }
+        String filename = "screenshot-" + System.currentTimeMillis() + ".png";
+        File screenshotFile = new File(directory, filename);
+        TakesScreenshot takesScreenshot = (TakesScreenshot) wd;
+        File tmp = takesScreenshot.getScreenshotAs(OutputType.FILE);
+        try {
+            Files.copy(tmp.toPath(), screenshotFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+            logger.info("Screenshot saved to: " + screenshotFile.getAbsolutePath());
+        } catch (IOException e) {
+            logger.error("Error while saving screenshot: " + e.getMessage());
+            throw new RuntimeException(e);
+        }
+    }
+//    public void getScreen(String link) {
+//
+//        TakesScreenshot takesScreenshot=(TakesScreenshot) wd;
+//        File tmp =takesScreenshot.getScreenshotAs(OutputType.FILE);
+//        try {
+//            Files.copy(tmp,new File(link));
+//        } catch (IOException e) {
+//            throw new RuntimeException(e);
+//        }
+//    }
+public void clearTextBox(By locator){
+    WebElement el = wd.findElement(locator);
+    String os = System.getProperty("os.name");
+    System.out.println(os);
+    if(os.startsWith("Win")) {
+        el.sendKeys(Keys.CONTROL, "a");
+    }else {
+        el.sendKeys(Keys.COMMAND, "a");
+    }
+    el.sendKeys(Keys.DELETE);
+
+}
 }
 
 

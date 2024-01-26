@@ -1,0 +1,954 @@
+Jan 26, 2024 2:51:56 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Starting searchWithInvalidLocationAndValidDates test with 25 iterations
+Jan 26, 2024 2:51:56 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 1 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:51:56 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: ixoebdtlqy, Start Date: 02/12/2024, End Date: 05/27/2024
+Jan 26, 2024 2:52:04 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:52:05 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 2 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:52:05 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: orclnzmtim, Start Date: 04/16/2024, End Date: 04/29/2024
+Jan 26, 2024 2:52:12 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:52:13 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 3 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:52:13 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: xfwenxeyjo, Start Date: 05/17/2024, End Date: 12/17/2024
+Jan 26, 2024 2:52:20 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:52:20 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 4 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:52:20 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: kpcqynuenc, Start Date: 10/06/2024, End Date: 07/23/2025
+Jan 26, 2024 2:52:27 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:52:27 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 5 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:52:27 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: cdolikhhul, Start Date: 06/17/2024, End Date: 12/19/2024
+Jan 26, 2024 2:52:32 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-twy-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:52:27 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:52:27 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:52:32 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 6 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:52:32 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: bccofyoujw, Start Date: 11/26/2024, End Date: 12/04/2024
+Jan 26, 2024 2:52:39 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:52:39 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 7 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:52:39 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: xhwtqongxv, Start Date: 02/14/2024, End Date: 05/15/2024
+Jan 26, 2024 2:52:47 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:52:47 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 8 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:52:47 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: giijdqgipf, Start Date: 11/11/2024, End Date: 10/05/2025
+Jan 26, 2024 2:52:54 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:52:55 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 9 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:52:55 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: cktfjzxfju, Start Date: 04/18/2024, End Date: 06/16/2024
+Jan 26, 2024 2:53:02 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:53:03 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 10 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:53:03 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: wdmyyyfalp, Start Date: 04/08/2024, End Date: 10/20/2024
+Jan 26, 2024 2:53:09 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:53:10 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 11 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:53:10 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: thtsascdlg, Start Date: 04/22/2024, End Date: 01/10/2025
+Jan 26, 2024 2:53:18 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:53:19 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 12 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:53:19 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: llezpdoxth, Start Date: 07/05/2024, End Date: 05/25/2025
+Jan 26, 2024 2:53:26 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:53:27 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 13 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:53:27 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: jlyhzauogg, Start Date: 12/10/2024, End Date: 10/29/2025
+Jan 26, 2024 2:53:34 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:53:35 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 14 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:53:35 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: essxuwkrqn, Start Date: 07/20/2024, End Date: 08/22/2024
+Jan 26, 2024 2:53:42 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-xmq-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:53:35 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:53:35 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:53:43 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 15 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:53:43 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: gnodiyakyf, Start Date: 01/09/2025, End Date: 12/14/2025
+Jan 26, 2024 2:53:51 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:53:52 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 16 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:53:52 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: fkwdaxwddy, Start Date: 02/28/2024, End Date: 11/21/2024
+Jan 26, 2024 2:53:59 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:53:59 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 17 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:53:59 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: hpwgdcgdpk, Start Date: 02/08/2024, End Date: 07/01/2024
+Jan 26, 2024 2:54:06 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:54:07 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 18 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:54:07 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: jkyqsqukpk, Start Date: 12/07/2024, End Date: 05/23/2025
+Jan 26, 2024 2:54:14 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:54:15 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 19 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:54:15 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: bqansyzyty, Start Date: 09/14/2024, End Date: 08/25/2025
+Jan 26, 2024 2:54:22 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:54:22 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 20 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:54:22 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: debnxojrsb, Start Date: 04/25/2024, End Date: 06/29/2024
+Jan 26, 2024 2:54:26 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-djh-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:54:22 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:54:22 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:54:27 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 21 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:54:27 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: cadimchaqm, Start Date: 09/23/2024, End Date: 07/07/2025
+Jan 26, 2024 2:54:31 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-xie-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:54:27 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:54:27 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:54:32 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 22 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:54:32 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: dxlgqjqxls, Start Date: 02/26/2024, End Date: 05/29/2024
+Jan 26, 2024 2:54:39 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:54:39 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 23 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:54:39 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: rjakrahfmp, Start Date: 10/17/2024, End Date: 05/27/2025
+Jan 26, 2024 2:54:46 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:54:46 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 24 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:54:46 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: ohfobsrlfm, Start Date: 07/26/2024, End Date: 09/22/2024
+Jan 26, 2024 2:54:54 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:54:54 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Iteration 25 of searchWithInvalidLocationAndValidDates test
+Jan 26, 2024 2:54:54 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Generated search parameters - Location: nftmagxoxi, Start Date: 05/21/2024, End Date: 10/16/2024
+Jan 26, 2024 2:55:01 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+SEVERE: Exception encountered: no such element: Unable to locate element: {"method":"css selector","selector":"div.pac-item"}
+  (Session info: chrome=121.0.6167.85)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+*** Element info: {Using=css selector, value=div.pac-item}
+Jan 26, 2024 2:55:02 PM tests.SearchCarsTests searchWithInvalidLocationAndValidDates
+INFO: Completed searchWithValidData test
+Jan 26, 2024 2:55:02 PM tests.SearchCarsTests searchWithValidData
+INFO: Starting searchWithValidData test with 25 iterations
+Jan 26, 2024 2:55:02 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 1 of searchWithValidData test
+Jan 26, 2024 2:55:02 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 08/04/2024, End Date: 05/14/2025
+Jan 26, 2024 2:55:06 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-tlb-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:01 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:01 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:07 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 2 of searchWithValidData test
+Jan 26, 2024 2:55:07 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 03/07/2024, End Date: 08/22/2024
+Jan 26, 2024 2:55:11 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ums-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:07 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:07 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:12 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 3 of searchWithValidData test
+Jan 26, 2024 2:55:12 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 04/13/2024, End Date: 02/04/2025
+Jan 26, 2024 2:55:16 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-fit-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:12 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:12 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:17 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 4 of searchWithValidData test
+Jan 26, 2024 2:55:17 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 11/23/2024, End Date: 11/14/2025
+Jan 26, 2024 2:55:21 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-nfe-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:17 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:17 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:21 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 5 of searchWithValidData test
+Jan 26, 2024 2:55:21 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 09/25/2024, End Date: 03/08/2025
+Jan 26, 2024 2:55:26 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-hjp-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:21 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:21 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:26 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 6 of searchWithValidData test
+Jan 26, 2024 2:55:26 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 08/14/2024, End Date: 10/09/2024
+Jan 26, 2024 2:55:30 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-iuk-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:26 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:26 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:31 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 7 of searchWithValidData test
+Jan 26, 2024 2:55:31 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 01/06/2025, End Date: 03/05/2025
+Jan 26, 2024 2:55:35 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-eyb-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:31 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:31 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:35 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 8 of searchWithValidData test
+Jan 26, 2024 2:55:35 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 02/17/2024, End Date: 12/24/2024
+Jan 26, 2024 2:55:40 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-uyp-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:35 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:35 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:40 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 9 of searchWithValidData test
+Jan 26, 2024 2:55:40 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 01/30/2024, End Date: 12/26/2024
+Jan 26, 2024 2:55:44 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-cnp-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:40 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:40 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:45 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 10 of searchWithValidData test
+Jan 26, 2024 2:55:45 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 06/04/2024, End Date: 05/16/2025
+Jan 26, 2024 2:55:49 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-paq-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:45 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:45 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:50 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 11 of searchWithValidData test
+Jan 26, 2024 2:55:50 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 09/08/2024, End Date: 01/17/2025
+Jan 26, 2024 2:55:54 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-khn-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:50 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:50 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:54 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 12 of searchWithValidData test
+Jan 26, 2024 2:55:54 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 08/07/2024, End Date: 09/12/2024
+Jan 26, 2024 2:55:59 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ctu-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:54 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:54 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:55:59 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 13 of searchWithValidData test
+Jan 26, 2024 2:55:59 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 03/11/2024, End Date: 05/21/2024
+Jan 26, 2024 2:56:03 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-iqs-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:55:59 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:55:59 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:04 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 14 of searchWithValidData test
+Jan 26, 2024 2:56:04 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 09/21/2024, End Date: 10/20/2024
+Jan 26, 2024 2:56:08 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-urv-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:04 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:04 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:09 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 15 of searchWithValidData test
+Jan 26, 2024 2:56:09 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 04/08/2024, End Date: 08/10/2024
+Jan 26, 2024 2:56:14 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-sxo-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:09 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:09 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:14 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 16 of searchWithValidData test
+Jan 26, 2024 2:56:14 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Haifa, Start Date: 12/12/2024, End Date: 08/02/2025
+Jan 26, 2024 2:56:18 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ohk-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:14 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:14 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:19 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 17 of searchWithValidData test
+Jan 26, 2024 2:56:19 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Haifa, Start Date: 12/15/2024, End Date: 09/14/2025
+Jan 26, 2024 2:56:23 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-xmo-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:19 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:19 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:24 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 18 of searchWithValidData test
+Jan 26, 2024 2:56:24 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 03/10/2024, End Date: 04/06/2024
+Jan 26, 2024 2:56:28 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-mqq-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:24 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:24 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:29 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 19 of searchWithValidData test
+Jan 26, 2024 2:56:29 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 01/05/2025, End Date: 12/22/2025
+Jan 26, 2024 2:56:33 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-skj-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:29 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:29 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:34 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 20 of searchWithValidData test
+Jan 26, 2024 2:56:34 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 04/24/2024, End Date: 05/22/2024
+Jan 26, 2024 2:56:38 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ihx-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:34 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:34 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:39 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 21 of searchWithValidData test
+Jan 26, 2024 2:56:39 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Haifa, Start Date: 05/06/2024, End Date: 10/20/2024
+Jan 26, 2024 2:56:43 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-uiw-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:39 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:39 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:43 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 22 of searchWithValidData test
+Jan 26, 2024 2:56:43 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Haifa, Start Date: 07/24/2024, End Date: 10/05/2024
+Jan 26, 2024 2:56:48 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-mnx-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:43 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:43 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:48 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 23 of searchWithValidData test
+Jan 26, 2024 2:56:48 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Haifa, Start Date: 02/26/2024, End Date: 08/25/2024
+Jan 26, 2024 2:56:52 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-dgd-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:48 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:48 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:53 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 24 of searchWithValidData test
+Jan 26, 2024 2:56:53 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Haifa, Start Date: 06/10/2024, End Date: 09/08/2024
+Jan 26, 2024 2:56:57 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ltt-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:53 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:53 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:56:57 PM tests.SearchCarsTests searchWithValidData
+INFO: Iteration 25 of searchWithValidData test
+Jan 26, 2024 2:56:57 PM tests.SearchCarsTests searchWithValidData
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 06/05/2024, End Date: 11/15/2024
+Jan 26, 2024 2:57:02 PM tests.SearchCarsTests searchWithValidData
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-hck-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:56:57 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:56:57 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:02 PM tests.SearchCarsTests searchWithValidData
+INFO: Completed searchWithValidData test
+Jan 26, 2024 2:57:02 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Starting searchWithValidLocationAndInvalidDate test with 25 iterations
+Jan 26, 2024 2:57:02 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 1 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:02 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 02/18/2023, End Date: 06/21/2023
+Jan 26, 2024 2:57:06 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-smr-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:02 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:02 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:07 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 2 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:07 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Haifa, Start Date: 11/17/2023, End Date: 04/07/2023
+Jan 26, 2024 2:57:11 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-lio-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:07 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:07 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:11 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 3 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:11 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Haifa, Start Date: 02/13/2023, End Date: 12/31/2023
+Jan 26, 2024 2:57:16 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-xlj-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:11 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:11 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:16 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 4 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:16 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 05/05/2023, End Date: 05/19/2023
+Jan 26, 2024 2:57:21 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-hml-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:16 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:16 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:22 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 5 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:22 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 06/28/2023, End Date: 10/30/2023
+Jan 26, 2024 2:57:26 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ulg-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:21 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:21 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 347). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:27 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 6 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:27 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 08/08/2023, End Date: 05/19/2023
+Jan 26, 2024 2:57:32 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-otu-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:27 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:27 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:32 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 7 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:32 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 06/01/2023, End Date: 01/17/2024
+Jan 26, 2024 2:57:37 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-vag-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:32 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:32 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:38 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 8 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:38 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Haifa, Start Date: 06/05/2023, End Date: 03/29/2023
+Jan 26, 2024 2:57:43 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-pym-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:38 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:38 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:43 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 9 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:43 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 07/20/2023, End Date: 08/30/2023
+Jan 26, 2024 2:57:48 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-lax-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:43 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:43 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:49 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 10 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:49 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 12/24/2023, End Date: 04/11/2023
+Jan 26, 2024 2:57:54 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ocy-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:49 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:49 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:57:55 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 11 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:57:55 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 11/29/2023, End Date: 07/02/2023
+Jan 26, 2024 2:57:59 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-qow-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:57:54 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:57:54 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:00 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 12 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:00 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 02/11/2023, End Date: 07/06/2023
+Jan 26, 2024 2:58:05 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ium-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:00 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:00 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:05 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 13 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:05 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Haifa, Start Date: 10/01/2023, End Date: 03/07/2023
+Jan 26, 2024 2:58:10 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-heq-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:05 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:05 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:11 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 14 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:11 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 12/25/2023, End Date: 07/24/2023
+Jan 26, 2024 2:58:16 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-fwv-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:11 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:11 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:16 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 15 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:16 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 08/02/2023, End Date: 01/12/2024
+Jan 26, 2024 2:58:21 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ejk-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:16 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:16 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:21 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 16 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:21 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 09/14/2023, End Date: 03/17/2023
+Jan 26, 2024 2:58:26 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-vap-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:21 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:21 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:27 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 17 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:27 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Haifa, Start Date: 05/01/2023, End Date: 02/13/2023
+Jan 26, 2024 2:58:31 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-jbg-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:27 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:27 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:32 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 18 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:32 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 10/13/2023, End Date: 02/07/2023
+Jan 26, 2024 2:58:37 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-eve-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:32 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:32 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:37 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 19 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:37 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 10/07/2023, End Date: 04/12/2023
+Jan 26, 2024 2:58:42 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-pot-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:37 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:37 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:42 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 20 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:42 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 12/21/2023, End Date: 06/07/2023
+Jan 26, 2024 2:58:47 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-tmh-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:42 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:42 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:47 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 21 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:47 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Haifa, Start Date: 11/20/2023, End Date: 08/22/2023
+Jan 26, 2024 2:58:52 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-hvy-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:47 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:47 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:53 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 22 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:53 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Tel Aviv, Start Date: 01/30/2023, End Date: 11/30/2023
+Jan 26, 2024 2:58:57 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-nli-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:52 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:52 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:58:58 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 23 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:58:58 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Jerusalem, Start Date: 05/07/2023, End Date: 08/27/2023
+Jan 26, 2024 2:59:03 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-glo-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:58:58 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:58:58 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:59:04 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 24 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:59:04 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Haifa, Start Date: 08/06/2023, End Date: 05/22/2023
+Jan 26, 2024 2:59:09 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-ucc-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:59:04 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:59:04 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:59:10 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Iteration 25 of searchWithValidLocationAndInvalidDate test
+Jan 26, 2024 2:59:10 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Generated search parameters - Location: Haifa, Start Date: 10/09/2023, End Date: 07/11/2023
+Jan 26, 2024 2:59:15 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+SEVERE: Exception encountered: element click intercepted: Element <input _ngcontent-nxi-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Sat Jan 25 2025 14:59:09 GMT+0" ng-reflect-min="Fri Jan 26 2024 14:59:09 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2024-01-26" max="2025-01-25" aria-owns="sat-datepicker-0"> is not clickable at point (284, 328). Other element would receive the click: <div class="mat-calendar-body-cell-content">...</div>
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Hannas-MacBook-Air.local', ip: 'fe80:0:0:0:1c75:a657:e0ce:846b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.1.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: /var/folders/cb/mrc3xgx9787...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 902956599b95d9f71232c6b320941cdc
+Jan 26, 2024 2:59:15 PM tests.SearchCarsTests searchWithValidLocationAndInvalidDate
+INFO: Completed searchWithValidData test

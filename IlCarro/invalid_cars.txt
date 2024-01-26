@@ -1,0 +1,25 @@
+location= , manufacture= , model= , year=2017, carClass=Econom, carRegNumber=REG-5351, fuel= , about=Default, seats=2, price=1000.0
+location= , manufacture=Mercedes-Benz, model= , year=2018, carClass=Econom, carRegNumber=REG-771, fuel=Petrol, about=Default, seats=4, price=0.0
+location= , manufacture=Hyundai, model= , year=2019, carClass=Lux, carRegNumber=0000, fuel= , about=Very nice car, seats=2, price=450.0
+location=Tel Aviv, manufacture= , model= , year=200, carClass=Premium, carRegNumber=0000, fuel=Electric, about=Default, seats=7, price=0.0
+location=Tel Aviv, manufacture= , model= , year=200, carClass=Econom, carRegNumber=REG-4777, fuel= , about=Default, seats=7, price=450.0
+location= , manufacture= , model=Altima, year=200, carClass=Econom, carRegNumber=0000, fuel= , about=Very nice car, seats=5, price=230.0
+location=Jerusalem, manufacture=Honda, model= , year=200, carClass=Econom, carRegNumber=REG-9538, fuel=Petrol, about=Very nice car, seats=7, price=230.0
+location=Tel Aviv, manufacture=Volkswagen, model=F-150, year=2017, carClass=Econom, carRegNumber=0000, fuel= , about=Very nice car, seats=2, price=1000.0
+location= , manufacture=Kia, model=Elantra, year=200, carClass=Lux, carRegNumber=0000, fuel=Diesel, about=Default, seats=2, price=500.0
+location= , manufacture= , model=Civic, year=200, carClass=Econom, carRegNumber=REG-2761, fuel=Electric, about=Default, seats=4, price=0.0
+location= , manufacture=Mercedes-Benz, model=Silverado, year=2015, carClass=Econom, carRegNumber=0000, fuel= , about=Default, seats=5, price=0.0
+location= , manufacture=Chevrolet, model=Elantra, year=2021, carClass=Premium, carRegNumber=0000, fuel= , about=Very nice car, seats=5, price=400.0
+location=Jerusalem, manufacture= , model=Silverado, year=2022, carClass=Econom, carRegNumber=0000, fuel=Gas, about=Very nice car, seats=0, price=0.0
+location= , manufacture= , model= , year=200, carClass=Econom, carRegNumber=REG-5255, fuel= , about=Default, seats=7, price=400.0
+location= , manufacture=Toyota, model= , year=2021, carClass=Econom, carRegNumber=REG-829, fuel= , about=Default, seats=0, price=230.0
+location= , manufacture= , model= , year=2016, carClass=Econom, carRegNumber=0000, fuel=Hybrid, about=Very nice car, seats=0, price=0.0
+location=Haifa, manufacture= , model=Golf, year=200, carClass=Lux, carRegNumber=REG-353, fuel= , about=Very nice car, seats=0, price=0.0
+location=Tel Aviv, manufacture=BMW, model= , year=2017, carClass=Econom, carRegNumber=0000, fuel= , about=Default, seats=0, price=0.0
+location= , manufacture= , model=Golf, year=200, carClass=Premium, carRegNumber=REG-2834, fuel=Hybrid, about=Very nice car, seats=0, price=400.0
+location= , manufacture= , model=Altima, year=200, carClass=Econom, carRegNumber=REG-9688, fuel=Gas, about=Default, seats=0, price=0.0
+location= , manufacture= , model=Civic, year=2019, carClass=Econom, carRegNumber=0000, fuel=Hybrid, about=Default, seats=7, price=0.0
+location= , manufacture=Toyota, model=Optima, year=2023, carClass=Econom, carRegNumber=0000, fuel= , about=Very nice car, seats=4, price=500.0
+location=Haifa, manufacture= , model= , year=2021, carClass=Lux, carRegNumber=REG-2601, fuel= , about=Default, seats=2, price=500.0
+location= , manufacture=BMW, model= , year=2022, carClass=Lux, carRegNumber=0000, fuel= , about=Default, seats=2, price=0.0
+location= , manufacture=Nissan, model=Silverado, year=2017, carClass=Econom, carRegNumber=REG-8488, fuel=Hybrid, about=Default, seats=5, price=100.0

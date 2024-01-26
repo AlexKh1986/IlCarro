@@ -7,11 +7,13 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.time.Period;
 import java.util.ArrayList;
 import java.util.List;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
 public class HelperCar extends HelperBase {
     public HelperCar(WebDriver wd) {
@@ -116,8 +118,6 @@ public class HelperCar extends HelperBase {
         }
     }
 
-
-
     public List<Car> readCarsFromFile(String filename) {
         List<Car> cars = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
@@ -137,7 +137,59 @@ public class HelperCar extends HelperBase {
         }
         return cars;
     }
-
+    public void search(String city, String dateFrom, String dateTo) {
+        setupSearch(city);
+        selectDateRange(dateFrom, dateTo);
+    }
+    private void setupSearch(String city) {
+        clearAndType(By.id("city"), city);
+        click(By.cssSelector("div.pac-item"));
+    }
+    private void clearAndType(By locator, String text) {
+        clearTextBox(locator);
+        type(locator, text);
+    }
+    private void selectDateRange(String dateFrom, String dateTo) {
+        clearAndType(By.id("dates"), "");
+        click(By.id("dates"));
+        LocalDate from = LocalDate.parse(dateFrom, DateTimeFormatter.ofPattern("M/d/yyyy"));
+        LocalDate to = LocalDate.parse(dateTo, DateTimeFormatter.ofPattern("M/d/yyyy"));
+        navigateAndSelectDate(from);
+        navigateAndSelectDate(to);
+    }
+    private void navigateAndSelectDate(LocalDate date) {
+        int diffMonth = calculateMonthDifference(date);
+        clickNextMonth(diffMonth);
+        clickDate(date);
+    }
+    private int calculateMonthDifference(LocalDate targetDate) {
+        LocalDate now = LocalDate.now().withDayOfMonth(1);
+        return Period.between(now, targetDate.withDayOfMonth(1)).getMonths();
+    }
+    private void clickNextMonth(int times) {
+        for (int i = 0; i < times; i++) {
+            click(By.cssSelector("button[aria-label='Next month']"));
+        }
+    }
+    private void clickDate(LocalDate date) {
+        String locator = String.format("//div[text() = ' %s ']", date.getDayOfMonth());
+        click(By.xpath(locator));
+    }
+    public void navigateByLogo() {
+        click(By.cssSelector("a.logo"));
+    }
+    public void searchNotValidPeriod(String city, String dateFrom, String dateTo) {
+        setupSearch(city);
+        clearAndType(By.id("dates"), dateFrom + " - " + dateTo);
+        click(By.cssSelector("div.cdk-overlay-backdrop"));
+    }
+    public boolean isErrorDisplayed(String message) {
+        String text = wd.findElement(By.cssSelector("div.ng-star-inserted")).getText();
+        return text.equals(message);
+    }
+    public boolean isListOfCarsAppeared() {
+        return isElementPresent(By.cssSelector("a.car-container"));
+    }
 
 
 }
