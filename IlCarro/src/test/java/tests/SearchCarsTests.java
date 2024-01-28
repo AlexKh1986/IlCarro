@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.ElementClickInterceptedException;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
@@ -55,8 +56,6 @@ public class SearchCarsTests extends TestBase {
             try {
                 app.getHelperCar().search(validLocation, validDateStart, validDateEnd);
                 app.getHelperCar().submit();
-//                WebDriverWait wait = new WebDriverWait(app.getDriver(), 10);
-//                wait.until(ExpectedConditions.invisibilityOfElementLocated(By.id("overlayElementId")));
                 WebElement element = app.getDriver().findElement(By.id("dates"));
                 ((JavascriptExecutor) app.getDriver()).executeScript("arguments[0].scrollIntoView(true);", element);
                 clickWithRetry(By.id("dates"));
@@ -72,18 +71,13 @@ public class SearchCarsTests extends TestBase {
     public void searchWithValidLocationAndInvalidDate() {
         int numberOfTests = 25;
         log.info("Starting searchWithValidLocationAndInvalidDate test with " + numberOfTests + " iterations");
-
         for (int i = 0; i < numberOfTests; i++) {
             log.info("Iteration " + (i + 1) + " of searchWithValidLocationAndInvalidDate test");
-
-
             String validLocation = dataGenerator.generateValidLocation();
             String invalidDateStart = dataGenerator.generateInvalidDate();
             String invalidDateEnd = dataGenerator.generateInvalidDate();
-
             log.info("Generated search parameters - Location: " + validLocation + ", Start Date: " + invalidDateStart
                     + ", End Date: " + invalidDateEnd);
-
             try {
                 app.getHelperCar().search(validLocation, invalidDateStart, invalidDateEnd);
                 app.getHelperCar().submit();
@@ -97,19 +91,18 @@ public class SearchCarsTests extends TestBase {
         }
         log.info("Completed searchWithValidData test");
     }
+
     @Test
     public void searchWithInvalidLocationAndValidDates() {
         int numberOfTests = 25;
         log.info("Starting searchWithInvalidLocationAndValidDates test with " + numberOfTests + " iterations");
-
         for (int i = 0; i < numberOfTests; i++) {
             log.info("Iteration " + (i + 1) + " of searchWithInvalidLocationAndValidDates test");
-
             String invalidLocation = dataGenerator.generateInvalidLocation();
             String validDateStart = dataGenerator.generateValidDate();
             String validDateEnd = dataGenerator.generateValidEndDate(validDateStart);
-
-            log.info("Generated search parameters - Location: " + invalidLocation + ", Start Date: " + validDateStart + ", End Date: " + validDateEnd);
+            log.info("Generated search parameters - Location: " + invalidLocation + ", Start Date: "
+                    + validDateStart + ", End Date: " + validDateEnd);
 
             try {
                 app.getHelperCar().search(invalidLocation, validDateStart, validDateEnd);
@@ -125,6 +118,14 @@ public class SearchCarsTests extends TestBase {
         log.info("Completed searchWithValidData test");
     }
 
+    @Test
+    public void searchWithValidYears(){
+
+    }
+    @AfterMethod
+    public void postCondition() {
+        app.getDriver().quit();
+    }
 }
 
 

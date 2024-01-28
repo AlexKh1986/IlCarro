@@ -81,22 +81,15 @@ public class AddNewCarTests extends TestBase {
                 logger.error("Exception occurred for car: " + car, e);
                 logger.info("Expected exception for invalid car: " + e.getMessage());
                 app.getHelperCar().getScreen("src/test/screenshots");
-                //    app.getDriver().navigate().refresh();
             } finally {
-//                //continue;
-//                logger.info("Returning to refresh");
-//                app.getDriver().navigate().refresh();
-//            }
-//            app.getHelperCar().returnToHome();
                 logger.info("Refreshing and returning to home page");
                 app.getDriver().navigate().refresh();
-             //   app.getHelperCar().returnToHome();
             }
         }
     }
 
     @Test
-    public void addNewCarSuccessAll() {
+    public void addNewCarSuccess() {
         List<Car> cars = app.getHelperCar().readCarsFromFile("cars.txt");
         for (Car car : cars) {
             testDefault(car);

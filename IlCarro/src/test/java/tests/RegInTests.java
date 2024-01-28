@@ -27,7 +27,7 @@ public class RegInTests extends TestBase {
         try {
             LogManager.getLogManager().reset();
             log.setLevel(Level.ALL);
-            FileHandler fileHandler = new FileHandler("testLog.log", true);
+            FileHandler fileHandler = new FileHandler("ReginTestLog.log", true);
             fileHandler.setFormatter(new SimpleFormatter());
             fileHandler.setLevel(Level.ALL);
             log.addHandler(fileHandler);
@@ -140,7 +140,6 @@ public class RegInTests extends TestBase {
             app.getDriver().navigate().refresh();
         }
     }
-
     @AfterMethod
     public void postConditions() {
         app.getHelperUser().clickOk();
